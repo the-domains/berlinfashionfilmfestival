@@ -1,4 +1,4 @@
-name: berlinfashionfilmfestival
+name: fashionfilmconsultant
 favicon: null
 layout_spectrum: 0.7116079838015139
 typography_spectrum: 0.13904840336181223
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#0067ad'
-    - '#f20088'
-    - '#000000'
-    - '#65a1cd'
-  brandStrength: 1
-  lightness: 0.1875
-  saturation: 0.125
-  rhythmicContrast: 0.75
+    - '#58677b'
+    - '#521417'
+    - '#343b49'
+    - '#9e9b93'
+    - '#81311d'
+  brandStrength: 0
+  lightness: 0.875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
