@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[fashionfilmconsultantniccolomontanari]]></title>
+        <description><![CDATA[fashionfilmconsultantniccolomontanari]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 14 May 2016 15:53:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is a test post</p>]]></description>
+            <link>undefinedthis-is-a-test-post/index.html</link>
+            <guid isPermaLink="false">81ab165f-df73-423e-9034-66649b742df8</guid>
+            <pubDate>Sat, 14 May 2016 15:53:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
